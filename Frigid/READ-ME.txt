@@ -1,0 +1,33 @@
+# Frigid Modpack - Quest Localization & Visual Overhaul (EN-US / PT-BR)
+
+Thank you for creating Frigid! This package contains a complete localization into Portuguese (PT-BR), along with structural and visual improvements to the FTB Quests system to enhance readability and make future translations much easier to maintain.
+
+## What Was Changed
+
+1. **Key-Based Text System (Localization Ready)**
+   - Restructured the quest text system by converting hardcoded strings into standardized translation keys (`quest.frigid.*`). This separates the quest logic from the text, making it significantly easier to maintain and add new languages in the future.
+
+2. **Full PT-BR Translation & Visual Formatting**
+   - Translated all quest descriptions, titles, and subtitles into Brazilian Portuguese (`pt_br.json`) while keeping the original English version (`en_us.json`) updated and organized.
+   - Applied a cohesive icy color palette (`§3` Dark Aqua for body text and `§b` Aqua for highlights, items, and mechanics) alongside bullet-point formatting to eliminate visual fatigue from long blocks of plain white text.
+
+---
+
+## Folder Structure & Installation Guide
+
+To apply these updates to the modpack, simply copy and replace the folders into their respective directories:
+
+### 1. Quest Files (`quests/`)
+* **What it contains:** The updated `.snbt` files for the 4 quest chapters that contain text (*READ ME*, *Hunting & Fishing*, *Transportation*, and *Staying Warm*), already linked to the new translation keys.
+* **Where to put it:** Replace the existing files inside your modpack's FTB Quests chapters folder:
+  `config/ftbquests/quests/chapters/` *(or your default quest chapters directory)*.
+
+### 2. Language Files (`ftbquests/lang/`)
+* **What it contains:** Both `en_us.json` and `pt_br.json` files properly formatted and grouped by quest lines.
+* **Where to put it:** Place the entire `ftbquests` folder directly inside:
+  `kubejs/assets/` 
+  *(Final path: `kubejs/assets/ftbquests/lang/`)*
+
+---
+
+*Localization, formatting, and key restructuring by Lilo.*

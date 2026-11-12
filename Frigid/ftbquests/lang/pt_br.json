@@ -1,0 +1,169 @@
+{
+    "quest.frigid.clickread":"Clique para Ler.",
+    "quest.frigid.readme.title": "LEIA-ME",
+    "quest.frigid.readme.subtitle": "Por favor, leia isto para informações importantes e avisos!",
+    
+    "quest.frigid.readme.readme.title":"LEIA-ME",
+    "quest.frigid.readme.readme.desc1":"&3Primeiramente, muito obrigado por jogar o &bFrigid!&3 A gente agradece demais o apoio. Se tiver qualquer problema ou dúvida, cola no nosso Discord!\n\n&9&ndiscord.marbledhubb.com\n",
+    "quest.frigid.readme.readme.desc2":"&3Para dar os primeiros passos e descolar uns itens iniciais, dá uma lida nas missões de tutorial. Elas vão te guiar, ensinar e mostrar o universo do Frigid!\n\nUse o seu Livro de Missões ou a aba de Quests no inventário para acessar as missões.",
+    "quest.frigid.readme.readme.desc3":"&3Esperamos que você se divirta! Se não gostar de algo, conta para a gente como podemos melhorar lá no Discord!\n\n&9&ndiscord.marbledhubb.com",
+
+    "quest.frigid.readme.disclaimer.title":"&4&lAvisos&r",
+    "quest.frigid.readme.disclaimer.desc1":"&4&lAvisos&r\n\n&3- Este modpack contém &4&lsons altos&r&3 e temas assustadores.\n\n- As temperaturas são em &4&lCelsius.&r&3\n\n- Para maior imersão, alguns itens foram &4&l'removidos'.&r&3 Isso ocorre porque eles não se encaixam na temática de &bFrigid.&3 No entanto, eles ainda estão nas abas do criativo e na pesquisa do JEI, apenas suas receitas e tabelas de saque foram removidas.",
+
+    "quest.frigid.readme.stayupdate.title":"Mantenha-se Atualizado",
+    "quest.frigid.readme.stayupdate.desc1":"&3Mantenha-se atualizado sobre nossos projetos!\n\n- &9&ndiscord.marbledhubb.com",
+
+    "quest.frigid.readme.rateus.title":"Avalie-nos",
+    "quest.frigid.readme.rateus.desc1":"&3Avalie-nos no ModDex.gg! Avaliações e comentários serão lidos para feedback e para vermos como podemos melhorar a experiência do &bFrigid.\n\n&9&nhttps://moddex.gg/modpack/frigid",
+
+
+
+
+    
+
+    "quest.frigid.hunting.title":"Caça \\& Pescaria",
+    "quest.frigid.hunting.subtitle":"Caçando sua própria comida.",
+
+    "quest.frigid.hunting.hunting.title":"Caça",
+    "quest.frigid.hunting.hunting.desc1":"&3A caça é um aspecto fundamental de Frigid. Você deve se aventurar:\n\n- Nas &2Florestas para caçar Cervos;\n\n&3- Nas &aPlanícies para Cabras;\n\n&3- E &9em Rios ou Oceanos para pescar.",
+    "quest.frigid.hunting.hunting.desc2":"&3Animais comuns de fazenda &4não&3 nascem mais em abundância, então você deve suar pela sua comida.\n\n&eBoa sorte!",
+
+    "quest.frigid.hunting.oldworkbench.title":"Old Workbench",
+    "quest.frigid.hunting.oldworkbench.desc1":"&3Para fabricar mais munição, você deve encontrar ou criar uma &bOld Workbench.",
+    
+    "quest.frigid.hunting.fishing.title":"Pescaria",
+    "quest.frigid.hunting.fishing.desc1":"&3A pesca é uma boa forma de garantir uma fonte de alimento.\n\n É confiável e fácil de fazer. A pesca em &bFrigid &3foi reformulada com um pequeno minijogo: quanto melhor você se sair, melhor será a sua captura.",
+
+    "quest.frigid.hunting.huntingfishery.title":"Hunting \\& Fishery",
+    "quest.frigid.hunting.huntingfishery.desc1":"&3A caça é um aspecto fundamental de &bFrigid&3.\n\n Os animais comuns de fazenda &4não&3 nascem mais em abundância, então você deve suar pela sua comida.\n\n- Cace &bCervos &3e &bCabras &3por comida e pele;\n- Pesque para garantir sua alimentação.",
+
+    "quest.frigid.hunting.mediumbullets.title":"Medium Bullets",
+    "quest.frigid.hunting.mediumbullets.desc1":"&3Usando a &bOld Workbench&3, você pode fabricar munição para o seu rifle de caça.",
+
+    "quest.frigid.hunting.winchester.title":"Winchester M1894",
+    "quest.frigid.hunting.winchester.desc1":"&3Usando a &bOld Workbench&3, você pode fabricar seu principal rifle de caça.",
+
+    "quest.frigid.hunting.ice.title":"Gelo",
+    "quest.frigid.hunting.ice.desc1":"&3Enquanto procura uma área para pescar no gelo, você pode acabar encontrando alguns peixes congelados no gelo.",
+
+    "quest.frigid.hunting.deer.title":"Cervo",
+    "quest.frigid.hunting.deer.desc1":"&3Os cervos são a principal fonte de alimento, sendo comuns em biomas de &2floresta&3.\n\nEles também derrubam &bPele(Fur)&3, que você pode usar para isolar sua armadura.",
+
+    "quest.frigid.hunting.goat.title":"Cabra",
+    "quest.frigid.hunting.goat.desc1":"&3As cabras são a principal fonte de &bPele de Cabra&3, usada para várias coisas, desde o isolamento de armaduras até a fabricação de lã.\n\nElas também são uma fonte de alimento, mas você só as encontrará em biomas de &aplanícies&3, pois migraram para baixo devido ao frio excessivo nas montanhas.",
+
+    "quest.frigid.hunting.rabbit.title":"Coelho",
+    "quest.frigid.hunting.rabbit.desc1":"&3Os coelhos são uma fonte de &bPele de Coelho&3, que serve como matéria-prima para &bCouro&3.\n\nTambém podem ser uma fonte de alimento e são encontrados em biomas de &2floresta&3.",
+
+    "quest.frigid.hunting.fish.title":"Peixe",
+    "quest.frigid.hunting.fish.desc1":"&3Os peixes são uma fonte de alimento de fácil obtenção.\n\nEm vez de gastar muito tempo caçando, os peixes podem ser capturados com facilidade.",
+
+    "quest.frigid.hunting.qckloadtube.title":"Quick Loading Tube",
+    "quest.frigid.hunting.qckloadtube.desc1":"&3Aumenta a velocidade de recarga.",
+
+
+
+
+
+
+
+    "quest.frigid.stayingwarm.title": "Mantendo-se Aquecido",
+    "quest.frigid.stayingwarm.subtitle": "Maneiras de se manter aquecido.",
+
+    "quest.frigid.stayingwarm.warmfoods.title": "Alimentos",
+   "quest.frigid.stayingwarm.warmfoods.desc1": "&3Alimentos quentes como:\n\n&b- Vesison Cozido &3(Carne de Cervo);\n&b- Chevorn Cozido &3(Carne de Cabra);\n&b- Salmão Cozido;\n&b- Bacalhau Cozido;\n\n&3Aumentam a temperatura corporal do jogador por um curto período de tempo quando consumidos.",
+    "quest.frigid.stayingwarm.warmfoods.desc2": "&3Lista de Alimentos:\n\n- &bVenison Cozido &3(+20 de calor, 30s);\n- &bChevon Cozido &3(+20 de calor, 30s);\n- &bCostelinha de Porco &3(+20 de calor, 30s);\n- &bBife &3(+20 de calor, 30s);\n- &bCarne de Carneiro Cozida &3(+20 de calor, 30s);\n- &bFrango Cozido &3(+20 de calor, 30s);\n- &bCoelho Cozido &3(+20 de calor, 30s);\n- &bBacalhau Cozido &3(+20 de calor, 30s);\n- &bSalmão Cozido &3(+20 de calor, 30s);\n- &bBatata Assada &3(+20 de calor, 30s).",
+
+    "quest.frigid.stayingwarm.heatsource.title": "Blocos",
+    "quest.frigid.stayingwarm.heatsource.desc1": "&3Fontes de calor são elementos que, naturalmente, mantêm o jogador aquecido.\n\nOs tipos de fontes de calor são primariamente &bblocos&3, &bitens &3e &bfluidos&3.",
+
+    "quest.frigid.stayingwarm.armorinsulation.title": "Isolamento de Armadura",
+    "quest.frigid.stayingwarm.armorinsulation.desc1": "&3A melhor opção a longo prazo.\n\nIsolar sua armadura não apenas permite que você use qualquer armadura que quiser, mas também, dependendo do nível de isolamento, mantém você aquecido e desacelera os efeitos do frio.",
+    "quest.frigid.stayingwarm.armorinsulation.desc2": "&3Existem 3 tipos de isolamento:\n\n&b- Pele de Cabra (Goat Fur);\n- Pele de Animal (Animal Fur);\n- Couro (Leather).",
+
+    "quest.frigid.stayingwarm.stayingwarm.title": "Mantendo-se Aquecido",
+    "quest.frigid.stayingwarm.stayingwarm.desc1": "&3Uma das coisas mais importantes para sobreviver se não &ba mais importante&3 é manter-se aquecido.\n\nExistem &b3 maneiras principais &3de se aquecer.",
+
+    "quest.frigid.stayingwarm.firewood.title": "Lenha",
+    "quest.frigid.stayingwarm.firewood.desc1": "&3Usada para construir ou alimentar &bFogueiras (Campfires)&3, abastecer &bFornalhas&3, &bCaldeiras (Boilers) &3e a &bLareira (Hearth)&3.",
+
+    "quest.frigid.stayingwarm.campfires.title": "Fogueira",
+    "quest.frigid.stayingwarm.campfires.desc1": "&3As fogueiras, feitas posicionando &b4x Lenhas &3e acesas com &bCarvão &3ou &bCarvão Vegetal &3via clique direito, são as melhores fontes de calor para o início e meio de jogo.\n\nElas mantêm você e seus amigos aquecidos pelo tempo que durar o combustível.",
+
+    "quest.frigid.stayingwarm.torches.title": "Tochas",
+    "quest.frigid.stayingwarm.torches.desc1": "&3As tochas são uma fonte de calor para o início de jogo.\n\nNão fornecem tanto calor, mas são fáceis de fabricar.\n\nElas possuem um &btempo de duração limitado &3enquanto acesas.",
+
+    "quest.frigid.stayingwarm.matches.title": "Fósforos",
+    "quest.frigid.stayingwarm.matches.desc1": "&3Os fósforos substituem o &bIsqueiro (Flint and Steel)&3.\n\nEles exercem a mesma função, servindo para acender suas tochas e fogueiras.",
+
+    "quest.frigid.stayingwarm.furnaces.title": "Fornalhas",
+    "quest.frigid.stayingwarm.furnaces.desc1": "&3Embora não forneçam tanto calor, ainda são uma fonte de &bfácil obtenção&3.",
+
+    "quest.frigid.stayingwarm.hearth.title": "Lareira (Hearth)",
+    "quest.frigid.stayingwarm.hearth.desc1": "&3A melhor fonte de calor para áreas fechadas ou revestidas, como o interior de bases, casas, edifícios ou estruturas.\n\nA &bLareira &3concede o efeito &bCalor (Warmth)&3, e o nível desse efeito aumenta gradualmente.",
+
+    "quest.frigid.stayingwarm.boiler.title": "Caldeira (Boiler)",
+    "quest.frigid.stayingwarm.boiler.desc1": "&3A Caldeira é usada para aquecer &bBolsas de Água (Waterskins)&3, mas também é capaz de irradiar um pouco de calor ao redor.",
+
+    "quest.frigid.stayingwarm.waterskin.title": "Bolsa de Água (Waterskin)",
+    "quest.frigid.stayingwarm.waterskin.desc1": "&3As bolsas de água são recipientes que podem ser aquecidos ou resfriados entre &b-50° C e 50° C&3.\n\nUma vez consumidas, a temperatura da bolsa será aplicada diretamente à temperatura do jogador. Elas também podem ficar na &bbarra de atalhos (hotbar) &3para aquecimento ou resfriamento passivo.",
+
+    "quest.frigid.stayingwarm.lava.title": "Lava",
+    "quest.frigid.stayingwarm.lava.desc1": "&3Embora emita muito calor, há um alto risco de ficar perto demais e superaquecer, ou ficar longe demais e congelar.",
+    "quest.frigid.stayingwarm.lava.desc2": "&3No entanto, carregá-la em um &bbalde na hotbar &3fornece calor passivo — e ainda mais se estiver diretamente em sua &bmão&3.",
+
+    "quest.frigid.stayingwarm.goatfur.title": "Pele de Cabra",
+    "quest.frigid.stayingwarm.goatfur.desc1": "&3Derrubada por Cabras.\n\nPode ser utilizada para &bIsolamento&3.",
+
+    "quest.frigid.stayingwarm.fur.title": "Pele",
+    "quest.frigid.stayingwarm.fur.desc1": "&3Derrubada por animais peludos, como Cervos.\n\nPode ser utilizada para &bIsolamento&3.",
+
+    "quest.frigid.stayingwarm.lantern.title": "Lanterna",
+    "quest.frigid.stayingwarm.lantern.desc1": "&3As lanternas emitem uma pequena quantidade de calor, o que pode não bastar como fonte principal.\n\nContudo, tê-las na &bhotbar &3gera calor passivo, intensificando-se se segurada &bdiretamente na mão&3.",
+
+    "quest.frigid.stayingwarm.thermometer.title": "Termômetro",
+    "quest.frigid.stayingwarm.thermometer.desc1": "&3O Termômetro é um item que exibe a temperatura corporal, fornecendo informações precisas sobre o nível de frio do jogador.\n\nEsta ferramenta útil só pode ser encontrada como &bloot raro em Cabanas&3.",
+
+    "quest.frigid.stayingwarm.iceresistance.title": "Resistência ao Gelo",
+    "quest.frigid.stayingwarm.iceresistance.desc1": "&3Poções de Resistência ao Gelo protegem entidades contra danos de congelamento quando estão excessivamente frias.\n\nElas não podem ser fabricadas em suporte de poções, e sua origem exata é um mistério.",
+
+    "quest.frigid.stayingwarm.candles.title": "Velas",
+    "quest.frigid.stayingwarm.candles.desc1": "&3Embora não sejam excelentes fontes de calor isoladas, as velas liberam uma pequena parcela de calor que &bacumula a cada vela extra &3adicionada.",
+
+    "quest.frigid.stayingwarm.unlittorche.title": "Tochas Apagadas",
+    "quest.frigid.stayingwarm.unlittorche.desc1": "&3As tochas podem ser reacendidas quando colocadas sobre &bFogueiras&3.",
+
+    "quest.frigid.stayingwarm.wool.title": "Lã",
+    "quest.frigid.stayingwarm.wool.desc1": "&3A lã também pode servir como isolante de armadura, mas sem ovelhas por perto, obtê-la é uma &btarefa difícil&3.",
+
+    "quest.frigid.stayingwarm.sleeping.title": "Dormindo",
+    "quest.frigid.stayingwarm.sleeping.desc1": "&3Se estiver muito frio, você não conseguirá dormir.\n\nA temperatura mínima necessária para conseguir pegar no sono é de &b8° Celsius&3.",
+    
+    "quest.frigid.stayingwarm.other.title": "Outros",
+    "quest.frigid.stayingwarm.other.desc1": "&3Outros fatores que afetam sua temperatura são:\n\n- &bO horário do dia;&3\n- &bO clima;&3\n\nSendo o momento mais rigoroso e frio durante a &bnoite enquanto está nevando&3.",
+
+
+
+
+
+
+
+
+
+
+    "quest.frigid.transportation.title":"Transporte",
+    "quest.frigid.transportation.subtitle":"Formas de se locomover no frio.",
+
+    "quest.frigid.transportation.sleds.title":"Trenós",
+    "quest.frigid.transportation.sleds.desc1":"&3Andar de trenó torna a travessia mais fácil e rápida.\n\nOs &btrenós &3conseguem subir e descer colinas com segurança.\n\nEles também vão ficando cada vez mais rápidos quanto mais tempo você desliza.",
+
+    "quest.frigid.transportation.wolves.title":"Lobos",
+    "quest.frigid.transportation.wolves.desc1":"&3Acoplar um &blobo &3domado ao seu trenó fará com que ele vá ainda mais rápido.\n\nAlém de levar seu melhor amigo junto na jornada.",
+
+    "quest.frigid.transportation.transportation.title":"Transporte",
+    "quest.frigid.transportation.transportation.desc1":"&3A travessia em &bFrigid &3pode ser difícil devido à quantidade de neve no chão.\n\nPor sorte, o modpack também conta com algumas formas de transporte.",
+
+    "quest.frigid.transportation.insulatedminecart.title":"Carrinho de Mina Isolado",
+    "quest.frigid.transportation.insulatedminecart.desc1":"&3Embora o uso de carrinhos de mina não seja tão grande, um &bcarrinho de mina com isolamento &3mantém você aquecido durante sua jornada pelos trilhos."
+}

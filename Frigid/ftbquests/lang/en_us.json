@@ -1,0 +1,165 @@
+{
+    "quest.frigid.clickread":"Click to read.",
+    "quest.frigid.readme.title":"READ ME",
+    "quest.frigid.readme.subtitle":"Please read this for important info and disclaimers!",
+    
+    "quest.frigid.readme.readme.title":"READ ME",
+    "quest.frigid.readme.readme.desc1":"&3Firstly, we'd like to thank you for playing &bFrigid!&3 We greatly appreciate it. If you have any issues, get help in our Discord server!\n\n&9&ndiscord.marbledhubb.com\n",
+    "quest.frigid.readme.readme.desc2":"&3To get started and get some starter items, read through the tutorial quests. They will help guide, teach, and show you Frigid's mechanics and features! It's highly recomended.\n\nUse your Quest Book or Quest Tab in your inventory to go to the quests.",
+    "quest.frigid.readme.readme.desc3":"&3We hope you have fun! If not, let us know how we can improve in our Discord!\n\n&9&ndiscord.marbledhubb.com",
+
+    "quest.frigid.readme.disclaimer.title":"&4&lDisclaimers&r",
+    "quest.frigid.readme.disclaimer.desc1":"&4&lDisclaimers&r\n\n&3- This modpack contains &4&lloud sounds&r&3, and scary themes.\n\n- Temperatures are in &4&lCelsius.&r&3\n\n- For immersion, some items have been &4&l'removed'.&r&3 This is because they don't fit the theme of &bFrigid.&r&3 But, they are still in the creative tabs and JEI search just their recipes and loot tables have been removed.",
+
+    "quest.frigid.readme.stayupdate.title":"Stay Updated",
+    "quest.frigid.readme.stayupdate.desc1":"Stay updated on our projects!\n\n- &9&ndiscord.marbledhubb.com",
+
+    "quest.frigid.readme.rateus.title":"Rate Us",
+    "quest.frigid.readme.rateus.desc1":"Rate us on ModDex.gg! Ratings and comments will be read for feedback and see how we can improve the Frigid experience.\n\n&9&nhttps://moddex.gg/modpack/frigid",
+
+
+
+
+
+
+    "quest.frigid.hunting.title":"Hunting \\& Fishery",
+    "quest.frigid.hunting.subtitle":"Hunting for your food.",
+
+    "quest.frigid.hunting.hunting.title":"Hunting",
+    "quest.frigid.hunting.hunting.desc1":"&3Hunting is a key aspect of Frigid. You must venture out in:\n\n- &2Forests to hunt Deer;\n\n&a- Plains for Goats;\n\n&9- And Rivers or Oceans for Fish.",
+    "quest.frigid.hunting.hunting.desc2":"&3Regular farm animals &4no longer spawn&3 in abundance so you must work for your food. &eGood Lucky!",
+
+    "quest.frigid.hunting.oldworkbench.title":"Old Workbench",
+    "quest.frigid.hunting.oldworkbench.desc1":"&3To craft more ammo, you must either find or craft an &bOld Workbench.",
+
+    "quest.frigid.hunting.fishing.title":"Fishing",
+    "quest.frigid.hunting.fishing.desc1":"&3Fishing is a good way to have a source of food.\n\nIt's reliable and easily done. Fishing in &bFrigid&3 has been overhauled with a small minigame, the better you do it, the better the catch.",
+
+    "quest.frigid.hunting.huntingfishery.title":"Hunting \\& Fishery",
+    "quest.frigid.hunting.huntingfishery.desc1":"&3Hunting is a key aspect of &bFrigid.\n\n&3 Regular farm animals &4no longer spawn&3 in abundance so you must work for your food.\n\n- You must hunt &bDeer&3 and &bGoat&3, for food and fur;\n\n- And fish for food.",
+
+    "quest.frigid.hunting.mediumbullets.title":"Medium Bullets",
+    "quest.frigid.hunting.mediumbullets.desc1":"&3Using the &bOld Workbench&3, you can craft your ammunition for your hunting rifle.",
+
+    "quest.frigid.hunting.winchester.title":"Winchester M1894",
+    "quest.frigid.hunting.winchester.desc1":"&3Using the &bOld Workbench&3, you can craft your main hunting rifle.",
+
+    "quest.frigid.hunting.ice.title":"Ice",
+    "quest.frigid.hunting.ice.desc1":"&3While looking for an area to ice fish, you may stumble upon some fish frozen in ice.",
+
+    "quest.frigid.hunting.deer.title":"Deer",
+    "quest.frigid.hunting.deer.desc1":"&3Deer are the main source of food, being common in &2forest&3 biomes.\n\nThey also drop &bFur&3 which you can use to insulate your armor.",
+
+    "quest.frigid.hunting.goat.title":"Goat",
+    "quest.frigid.hunting.goat.desc1":"&3Goats are the main source of &bGoat Fur&3, which can be used for all sorts of things from armor insulation, to crafting wool.\n\nThey also can be a source of food. But you will only find them in &aplains&3 biomes as they migrated down due to the mountains getting too cold.",
+
+    "quest.frigid.hunting.rabbit.title":"Rabbit",
+    "quest.frigid.hunting.rabbit.desc1":"&3Rabbits are a source of &bRabbit Hide&3, which is a source for &bLeather.\n\n&3They can also be a source of food and are found in &2forest&3 biomes.",
+
+    "quest.frigid.hunting.fish.title":"Fish",
+    "quest.frigid.hunting.fish.desc1":"&3Fish are a easily obtainable food source.\n\nRather than trying to spend a long while hunting for food, fish can be easily caught.",
+
+    "quest.frigid.hunting.qckloadtube.title":"Quick Loading Tube",
+    "quest.frigid.hunting.qckloadtube.desc1":"&3Increases reload speed.",
+
+
+
+
+
+
+    "quest.frigid.stayingwarm.title":"Staying Warm",
+    "quest.frigid.stayingwarm.subtitle":"Ways to keep yourself warm.",
+
+    "quest.frigid.stayingwarm.warmfoods.title":"Food",
+    "quest.frigid.stayingwarm.warmfoods.desc1":"&3Warm foods like:\n\n&b- Cooked Venison;\n- Cooked Chevon;\n- Cooked Salmon;\n- Cooked Cod;\n\n&3Once consumed increase the player's body temperature for short amount of time.",
+    "quest.frigid.stayingwarm.warmfoods.desc2":"&3List of Foods:\n\n- &bCooked Venison &3(+20 heat, 30s);\n- &bCooked Chevon &3(+20 heat, 30s);\n- &bPorkchop &3(+20 heat, 30s);\n- &bSteak &3(+20 heat, 30s);\n- &bCooked Mutton &3(+20 heat, 30s);\n- &bCooked Chicken &3(+20 heat, 30s);\n- &bCooked Rabbit &3(+20 heat, 30s);\n- &bCooked Cod &3(+20 heat, 30s);\n- &bCooked Salmon &3(+20 heat, 30s);\n- &bBaked Potato &3(+20 heat, 30s);",
+
+    "quest.frigid.stayingwarm.heatsource.title":"Blocks",
+    "quest.frigid.stayingwarm.heatsource.desc1":"&3Heat sources are sources that of course keep the player warm.\n\nThe typs of heat sources are primarily &bblocks&3, &bitems&3, and &bfluids&3.",
+
+    "quest.frigid.stayingwarm.armorinsulation.title":"Armor Insulation",
+    "quest.frigid.stayingwarm.armorinsulation.desc1":"&3The best long-term option.\n\nInsulating your armor not only lets you have whatever armor you want, but also depending on how much you insulate it, can keep you very much warm and slow down the affects of the cold.",
+    "quest.frigid.stayingwarm.armorinsulation.desc2":"&3There are 4 types of insulation;\n\n- &bGoat Fur;\n- Animal Fur;\n- Leather;",
+
+    "quest.frigid.stayingwarm.stayingwarm.title":"Staying Warm",
+    "quest.frigid.stayingwarm.stayingwarm.desc1":"&3One of the most important things to survive, if not the &bmost important thing&3, is to keep warm.\n\nThere are 3 main ways to keep warm.",
+
+    "quest.frigid.stayingwarm.firewood.title":"Firewood",
+    "quest.frigid.stayingwarm.firewood.desc1":"&3Used to build or fuel &bCampfires&3, fuel &bFurnaces&3, &bBoilers&3, and the &bHearth&3.",
+
+    "quest.frigid.stayingwarm.campfires.title":"Campfire",
+    "quest.frigid.stayingwarm.campfires.desc1":"&3Campfires, made from &b4x Firewood&3 placed down and defined with &bCoal&3 or &bCharcoal&3 VIA right-click, are the best heat sources for early-game to mid-game.\n\nThey can keep you and your friends warm for as long as you fuel it.",
+
+    "quest.frigid.stayingwarm.torches.title":"Torches",
+    "quest.frigid.stayingwarm.torches.desc1":"&3Torches are a early-game heat source.\n\nNot providing much heat, but easy to craft.\n\nThey do have a &bfinite lit time&3.",
+
+    "quest.frigid.stayingwarm.matches.title":"Matches",
+    "quest.frigid.stayingwarm.matches.desc1":"&3Matches replace &bFlint and Steel&3.\n\nMatches serve the same function, like lighting up your torches and campfires.",
+
+    "quest.frigid.stayingwarm.furnaces.title":"Furnaces",
+    "quest.frigid.stayingwarm.furnaces.desc1":"&3While not giving a lot of heat, it's still a &beasily obtainable&3 heat source.",
+
+    "quest.frigid.stayingwarm.hearth.title":"Hearth",
+    "quest.frigid.stayingwarm.hearth.desc1":"&3The best heat source for closed in or encased areas such as the inside of bases, homes, buildings, or structures.\n\n&bThe Hearth&3 grants the &bWarmth effect&3, and the level of the effect increases gradually.",
+
+    "quest.frigid.stayingwarm.boiler.title":"Boiler",
+    "quest.frigid.stayingwarm.boiler.desc1":"&3The Boiler is used to heat up &bWaterskins&3, but can also give off some heat.",
+
+    "quest.frigid.stayingwarm.waterskin.title":"Waterskin",
+    "quest.frigid.stayingwarm.waterskin.desc1":"&3Waterskins are containers of water that can be heated or cooled to &b-50° C/50° C&3.\n\nOnce consumed, the temperature of the Waterskin will be applied to the players temperature. They can also sit in the hotbar for passive heating/cooling.",
+
+    "quest.frigid.stayingwarm.lava.title":"Lava",
+    "quest.frigid.stayingwarm.lava.desc1":"&3While it gives off a lot of heat, there's a high chance of standing too close and overheating or standing too far and freezing.",
+    "quest.frigid.stayingwarm.lava.desc2":"&3But, having it in a bucket can give off passive heat when in &bthe hotbar&3, even more so if it's directly in &bthe hand&3.",
+
+    "quest.frigid.stayingwarm.goatfur.title":"Goat Fur",
+    "quest.frigid.stayingwarm.goatfur.desc1":"&3Dropped by Goats.\n\nCan be used for &bInsulation&3.",
+
+    "quest.frigid.stayingwarm.fur.title":"Fur",
+    "quest.frigid.stayingwarm.fur.desc1":"&3Dropped by animals that have fur, like Deer.\n\nCan be used for &bInsulation&3.",
+
+    "quest.frigid.stayingwarm.lantern.title":"Lantern",
+    "quest.frigid.stayingwarm.lantern.desc1":"&3Lanterns give off a small amount of heat, which may not be a good heat source.\n\nBut, when in the &bhotbar&3 it can give off passive heat, even more so if it's &bdirectly in the hand&3.",
+
+    "quest.frigid.stayingwarm.thermometer.title":"Thermometer",
+    "quest.frigid.stayingwarm.thermometer.desc1":"&3The Thermometer is an item that displays the body's temperature, giving percise information on how cold the player is.\n\nThis useful tool can only be found in &bCabins as rare loot&3.",
+
+    "quest.frigid.stayingwarm.iceresistance.title":"Ice Resistance",
+    "quest.frigid.stayingwarm.iceresistance.desc1":"&3Ice Resistance potions protect entities from freezing damage when they are too cold.\n\nThese cannot be brewed, and it is unknown where they can be found.",
+
+    "quest.frigid.stayingwarm.candles.title":"Candles",
+    "quest.frigid.stayingwarm.candles.desc1":"&3While not being a good source of heat, Candles do give off a small amount of heat which can &bincrease with every extra candle&3.",
+
+    "quest.frigid.stayingwarm.unlittorche.title":"Unlit Torches",
+    "quest.frigid.stayingwarm.unlittorche.desc1":"&3Torches can be lit when put on &bCampfires&3.",
+
+    "quest.frigid.stayingwarm.wool.title":"Wool",
+    "quest.frigid.stayingwarm.wool.desc1":"&3Wool can also be used as an armor insulator, but with no Sheep around, it's &bhard to obtain&3.",
+
+    "quest.frigid.stayingwarm.sleeping.title":"Sleeping",
+    "quest.frigid.stayingwarm.sleeping.desc1":"&3If it is too cold, you won't be able to sleep.\n\nThe minimun temperature you can sleep at is &b8° Celsius&3.",
+    
+    "quest.frigid.stayingwarm.other.title":"Other",
+    "quest.frigid.stayingwarm.other.desc1":"&3Other things that affect your temperature are the:\n\n- &bTime of day;\n&3- &bThe weather;\n\n&3With it being the coldest during &bnight while it is snowing.",
+
+
+
+
+
+
+
+    "quest.frigid.transportation.title":"Transportation",
+    "quest.frigid.transportation.subtitle":"Ways to transport in the cold.",
+
+    "quest.frigid.transportation.sleds.title":"Sleds",
+    "quest.frigid.transportation.sleds.desc1":"&3Sledding makes traversing easier and faster.\n\n&bSleds&3 can go uphill and downhill, safely.\n\nThey also get faster and faster the longer you go.",
+
+    "quest.frigid.transportation.wolves.title":"Wolves",
+    "quest.frigid.transportation.wolves.desc1":"&3Attaching a &btamed Wolf&3 to your Sled will make it go even faster.\n\nAnd you get to have your best friend come along on your journey.",
+
+    "quest.frigid.transportation.transportation.title":"Transportation",
+    "quest.frigid.transportation.transportation.desc1":"&3Traversing in &bFrigid&3 can be difficult due to the amount of snow on the ground.\n\nLuckily, &bFrigid&3 also has some ways of transportation.",
+
+    "quest.frigid.transportation.insulatedminecart.title":"Insulated Minecart",
+    "quest.frigid.transportation.insulatedminecart.desc1":"&3While Minecart use may not be that huge, a &bMinecart with Insulation&3 will keep you warm on your journey on the rails."
+}

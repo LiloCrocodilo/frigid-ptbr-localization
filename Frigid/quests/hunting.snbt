@@ -1,0 +1,295 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hunting"
+	group: "49B4E30AD1C5F5D1"
+	icon: "minecraft:target"
+	id: "34D7C4AF7BE9DCA0"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["147D3804F7D47B4E"]
+			description: [
+				"{quest.frigid.hunting.hunting.desc1}"
+				"{@pagebreak}"
+				"{quest.frigid.hunting.hunting.desc2}"
+			]
+			hide_lock_icon: true
+			icon: {
+				Count: 1
+				id: "tacz:modern_kinetic_gun"
+				tag: {
+					GunCurrentAmmoCount: 9
+					GunFireMode: "SEMI"
+					GunId: "hamster:win1894"
+					HasBulletInBarrel: 1b
+				}
+			}
+			id: "5DE8FDAB57FA1929"
+			rewards: [{
+				count: 12
+				id: "0225B84383E42BEF"
+				item: {
+					Count: 1
+					id: "tacz:ammo"
+					tag: {
+						AmmoId: "hamster:medium_ammo"
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			size: 1.0d
+			subtitle: "{quest.frigid.clickread}"
+			tasks: [{
+				id: "395D1D5BC98E5057"
+				title: "{quest.frigid.hunting.hunting.title}"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5DE8FDAB57FA1929"]
+			description: ["{quest.frigid.hunting.oldworkbench.desc1}"]
+			hide_lock_icon: true
+			icon: {
+				Count: 1
+				id: "tacz:workbench_b"
+				tag: {
+					BlockId: "hamster:oldworkbench"
+				}
+			}
+			id: "60B1E4BA22AC3C54"
+			subtitle: "{quest.frigid.clickread}"
+			tasks: [{
+				id: "7D1681EB61812C33"
+				title: "{quest.frigid.hunting.oldworkbench.title}"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["147D3804F7D47B4E"]
+			description: ["{quest.frigid.hunting.fishing.desc1}"]
+			hide_lock_icon: true
+			icon: {
+				Count: 1
+				id: "minecraft:fishing_rod"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6CED85D629337593"
+			rewards: [
+				{
+					id: "0434E1E7D4D6A16E"
+					item: "minecraft:string"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4722208CBFF55402"
+					item: "minecraft:stick"
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 1.0d
+			subtitle: "{quest.frigid.clickread}"
+			tasks: [{
+				id: "18FF877888B79998"
+				title: "{quest.frigid.hunting.fishing.title}"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			description: ["{quest.frigid.hunting.huntingfishery.desc1}"]
+			icon: "minecraft:target"
+			id: "147D3804F7D47B4E"
+			shape: "square"
+			size: 2.0d
+			subtitle: "{quest.frigid.clickread}"
+			tasks: [{
+				id: "563EF7A2D1227FB6"
+				type: "checkmark"
+			}]
+			title: "{quest.frigid.hunting.huntingfishery.title}"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["60B1E4BA22AC3C54"]
+			description: ["{quest.frigid.hunting.mediumbullets.desc1}"]
+			hide_lock_icon: true
+			icon: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "hamster:medium_ammo"
+				}
+			}
+			id: "27CD3A4F493D70E1"
+			rewards: [
+				{
+					count: 4
+					id: "63F2F4E84661F45E"
+					item: "minecraft:gunpowder"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "35E4E2989BD76FCD"
+					item: "minecraft:copper_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "{quest.frigid.clickread}"
+			tasks: [{
+				id: "11CD1ED14850C604"
+				type: "checkmark"
+			}]
+			title: "{quest.frigid.hunting.mediumbullets.title}"
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["60B1E4BA22AC3C54"]
+			description: ["{quest.frigid.hunting.winchester.desc1}"]
+			hide_lock_icon: true
+			icon: {
+				Count: 1
+				id: "tacz:modern_kinetic_gun"
+				tag: {
+					GunCurrentAmmoCount: 8
+					GunFireMode: "SEMI"
+					GunId: "hamster:win1894"
+					HasBulletInBarrel: 1b
+				}
+			}
+			id: "3235FDF09F81A7F9"
+			rewards: [{
+				count: 4
+				id: "738FF87EC9501522"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			subtitle: "{quest.frigid.clickread}"
+			tasks: [{
+				id: "49CB63C14A7FBB1F"
+				type: "checkmark"
+			}]
+			title: "{quest.frigid.hunting.winchester.title}"
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6CED85D629337593"]
+			description: ["{quest.frigid.hunting.ice.desc1}"]
+			hide_lock_icon: true
+			icon: "minecraft:ice"
+			id: "1785AFE231EE47A7"
+			shape: "circle"
+			subtitle: "{quest.frigid.clickread}"
+			tasks: [{
+				id: "70F85F20F39ABEF8"
+				title: "{quest.frigid.hunting.ice.title}"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["147D3804F7D47B4E"]
+			description: ["{quest.frigid.hunting.deer.desc1}"]
+			hide_lock_icon: true
+			icon: "naturalist:venison"
+			id: "6C6CF6C627BD3667"
+			shape: "square"
+			subtitle: "{quest.frigid.clickread}"
+			tasks: [{
+				id: "51D224B9637E4256"
+				title: "{quest.frigid.hunting.deer.title}"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["147D3804F7D47B4E"]
+			description: ["{quest.frigid.hunting.goat.desc1}"]
+			hide_lock_icon: true
+			icon: "cold_sweat:goat_fur"
+			id: "73F58791C67E3A9F"
+			shape: "square"
+			subtitle: "{quest.frigid.clickread}"
+			tasks: [{
+				id: "0A23E04169D03D69"
+				title: "{quest.frigid.hunting.goat.title}"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["147D3804F7D47B4E"]
+			description: ["{quest.frigid.hunting.rabbit.desc1}"]
+			hide_lock_icon: true
+			icon: "minecraft:rabbit_hide"
+			id: "37A7BAFC6FFD611B"
+			shape: "square"
+			subtitle: "{quest.frigid.clickread}"
+			tasks: [{
+				id: "16BB261FE7CD456A"
+				title: "{quest.frigid.hunting.rabbit.title}"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["147D3804F7D47B4E"]
+			description: ["{quest.frigid.hunting.fish.desc1}"]
+			hide_lock_icon: true
+			icon: "minecraft:salmon"
+			id: "29F83596AE0C90CC"
+			shape: "square"
+			subtitle: "{quest.frigid.clickread}"
+			tasks: [{
+				id: "6FB64044BCE1DC53"
+				title: "{quest.frigid.hunting.fish.title}"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["60B1E4BA22AC3C54"]
+			description: ["{quest.frigid.hunting.qckloadtube.desc1}"]
+			hide_lock_icon: true
+			icon: {
+				Count: 1
+				id: "tacz:attachment"
+				tag: {
+					AttachmentId: "hamster:loading_pipe"
+				}
+			}
+			id: "57F4476B9C294110"
+			subtitle: "{quest.frigid.clickread}"
+			tasks: [{
+				id: "389004500C870FDB"
+				title: "Loading Tube"
+				type: "checkmark"
+			}]
+			title: "{quest.frigid.hunting.qckloadtube.title}"
+			x: -3.5d
+			y: 1.0d
+		}
+	]
+	subtitle: ["{quest.frigid.hunting.subtitle}"]
+	title: "{quest.frigid.hunting.title}"
+}
